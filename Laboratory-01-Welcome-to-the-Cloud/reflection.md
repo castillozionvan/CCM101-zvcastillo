@@ -1,0 +1,3 @@
+# Personal Reflection
+
+Completing Laboratory 01 provided great practical experience working directly inside a cloud-hosted Linux CLI environment. Setting up my own user account, checking hardware specifications, and building organized workspaces using standard commands really reinforced how important command-line fluency is for cloud administration. Integrating Git and GitHub early in the course ensures that all my technical work, configurations, and lab progress are systematically documented and tracked. Even after I graduate, I plan to keep using, updating, and improving this GitHub portfolio to showcase my continuous growth, skills, and projects to future employers.
