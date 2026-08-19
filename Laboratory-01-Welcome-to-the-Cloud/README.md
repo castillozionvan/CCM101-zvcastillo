@@ -15,7 +15,7 @@ engineer.
 
 ## Mission Objectives
 Upon successful completion of this mission, you should be able to: 
- Access a cloud-based Linux environment using KillerCoda. 
+* Access a cloud-based Linux environment using KillerCoda. 
  Explore and navigate the Linux operating system. 
  Gather basic system information. 
  Organize files and directories using Linux commands. 
