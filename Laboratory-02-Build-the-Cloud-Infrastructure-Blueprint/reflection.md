@@ -1,11 +1,11 @@
 # Mission Reflection
 
-Through this laboratory activity, I learned more about the basic components of cloud computing, especially compute, storage, networking, and other infrastructure resources. I learned that compute resources are important because they are responsible for running applications and processing data. Storage is used to keep information, while networking allows different resources and users to communicate with each other.
+This laboratory activity helped me understand the basic parts of cloud computing, such as compute, storage, networking, and identity resources. I learned that compute resources are used to run applications and process data. Storage keeps data and files, while networking allows users and resources to communicate with each other.
 
-I also learned more about the importance of Linux in cloud computing. By using the Linux terminal, I was able to explore system information and understand how hardware and software resources can be checked using different commands. This helped me understand how the resources of a computer can be related to cloud infrastructure.
+I also learned how Linux can be used to check computer resources through the terminal. Using commands such as `lscpu`, `free`, and `df` allowed me to see information about the CPU, memory, and storage of a system. This gave me a better idea of how computer resources are connected to cloud infrastructure.
 
-Another thing I learned is that planning and documenting an infrastructure before creating it can make the system easier to understand and manage. Creating a simple cloud infrastructure diagram helped me visualize how the user, internet connection, network, compute resource, and storage resource are connected.
+Creating the cloud infrastructure diagram also helped me understand the connection between the user, internet, network, compute resource, and storage resource. I used Figma to arrange the components and create a simple diagram for the activity.
 
-During this laboratory, I also experienced some challenges, especially when editing my infrastructure diagram in Figma and searching for the correct code and commands to use in Killercoda. However, these challenges helped me practice searching for solutions and understanding the laboratory instructions better.
+I encountered some difficulties while editing the diagram in Figma and searching for the correct commands and code in Killercoda. I had to search for the commands and check the instructions to make sure I was using the correct ones.
 
-Overall, this laboratory helped me improve my knowledge of cloud computing, Linux commands, infrastructure design, and technical documentation. It also gave me experience that I can include in my GitHub Cloud Computing Portfolio.
+This laboratory gave me more practice with Linux commands, cloud infrastructure, Figma, Killercoda, and Markdown. I can also use the work from this activity as part of my GitHub Cloud Computing Portfolio.
