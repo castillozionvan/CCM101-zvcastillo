@@ -24,10 +24,10 @@ every design decision.
 - Continue building a structured GitHub Cloud Computing Portfolio.
 
 ## Cloud Infrastructure Components
-* **Compute
-* **Storage
-* **Networking
-* **Operating System
+* Compute
+* Storage
+* Networking
+* Operating System
 
 ## Tools Used
 * **Terminal Environment:** KillerCoda interactive Linux shell
