@@ -1,7 +1,5 @@
 # GCP Research Report: Google Cloud Platform
 
-![GCP Homepage](screenshots/gcp-homepage.png)
-
 ## Brief Overview
 Google Cloud Platform (GCP), introduced in 2008, is a modular suite of public cloud computing services running on the same global infrastructure Google uses internally for products like Search and Gmail. GCP is widely recognized for its strengths in high-performance computing, data analytics, container orchestration, and artificial intelligence.
 
