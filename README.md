@@ -13,3 +13,4 @@ This repository serves as my official portfolio for **CCM101 – Cloud Computing
 ### Laboratory Directory
 * [Laboratory 01: Welcome to the Cloud](./Laboratory-01-Welcome-to-the-Cloud/README.md)
 * [Laboratory 02: Build the Cloud Infrastructure](./Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint/README.md)
+* [Laboratory 03: Multi-Cloud Explorer](./Laboratory-03-Multi-Cloud-Explorer)
