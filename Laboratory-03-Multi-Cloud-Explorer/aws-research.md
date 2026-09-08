@@ -1,7 +1,5 @@
 # AWS Research Report: Amazon Web Services
 
-![AWS Homepage](screenshots/aws-homepage.jpg)
-
 ## Brief Overview
 Since launching in 2006, Amazon Web Services (AWS) has provided industry-leading cloud capabilities to help startups, enterprises, non-profits, and governments modernize operations and secure their data. As part of Amazon, AWS works backward from customer problems to deliver cloud and AI capabilities.
 
