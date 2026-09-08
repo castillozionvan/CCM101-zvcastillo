@@ -30,6 +30,16 @@
 
 ---
 
+## Checkpoint 5: Cloud Services Equivalent Reference Table
+
+| Service Category | AWS | Azure | GCP |
+| :--- | :--- | :--- | :--- |
+| **Virtual Machine** | Amazon EC2 | Azure Virtual Machines | Compute Engine |
+| **Object Storage** | Amazon S3 | Azure Blob Storage | Cloud Storage |
+| **Identity Management** | AWS IAM | Microsoft Entra ID | Cloud IAM |
+| **SQL Database** | Amazon RDS | Azure SQL Database | Cloud SQL |
+| **Kubernetes** | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
+
 ## References & Sources
 * [AWS Official Overview](https://aws.amazon.com/about-aws/)
 * [Microsoft Azure Documentation](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-azure)
