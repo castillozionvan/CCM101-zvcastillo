@@ -1,7 +1,5 @@
 # Azure Research Report: Microsoft Azure
 
-![Azure Homepage](screenshots/azure-homepage.png)
-
 ## Brief Overview
 Microsoft Azure, launched in 2010, is an enterprise public cloud platform offering over 200 cloud products and services. It allows organizations to build, deploy, and manage applications across a global network of data centers, making it a trusted platform for enterprise innovation.
 
