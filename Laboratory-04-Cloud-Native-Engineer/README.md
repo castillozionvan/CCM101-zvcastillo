@@ -1,3 +1,4 @@
+Markdown
 # Laboratory 04: Cloud-Native Engineer
 
 ## Mission Overview
@@ -18,6 +19,20 @@ At the end of this laboratory activity, you should be able to:
 - Create professional technical documentation of container operations using Markdown.
 - Continue developing a well-organized GitHub Cloud Computing Portfolio.
 
+## Skills Learned
+Linux container management using Docker CLI.
+
+Host-to-container port mapping (-p 8080:80).
+
+Local API and endpoint verification with curl.
+
+Writing structured technical documentation in Markdown.
+
+## Challenges Encountered
+Understanding Port Mapping: Learning how host ports route traffic into isolated container namespaces.
+
+Detached vs. Interactive Mode: Differentiating between background execution (-d) and interactive terminal access (-it). 
+
 ## Docker Commands Executed
 ```bash
 docker --version
@@ -29,18 +44,3 @@ docker ps
 docker stop my-nginx
 docker ps -a
 docker rm my-nginx
-
-
-Skills Learned
-Linux container management using Docker CLI.
-
-Host-to-container port mapping (-p 8080:80).
-
-Local API and endpoint verification with curl.
-
-Writing structured technical documentation in Markdown.
-
-Challenges Encountered
-Understanding Port Mapping: Learning how host ports route traffic into isolated container namespaces.
-
-Detached vs. Interactive Mode: Differentiating between background execution (-d) and interactive terminal access (-it).
