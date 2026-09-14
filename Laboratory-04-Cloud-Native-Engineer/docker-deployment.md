@@ -1,8 +1,5 @@
 # Docker Container Lifecycle Documentation
 
-## Overview
-This document logs the step-by-step Docker CLI commands executed during Laboratory 04 to pull, run, verify, manage, and remove an Nginx containerized web server inside the KillerCoda environment.
-
 ## Lifecycle Commands & Descriptions
 
 1. `docker --version`
