@@ -23,21 +23,4 @@ In this laboratory activity, I stepped into the role of a Cloud Data Engineer at
 - Object Storage management: Bucket creation, access management, and object uploads.
 - Evaluating cloud storage architectures (Block vs. File vs. Object) for real-world application demands.
 
----
 
-## Deliverables & Evidence
-
-### Storage Architecture Research
-Detailed theoretical analysis is located in [`storage-types-research.md`](./storage-types-research.md).
-
-### Technical Deployment Details
-Detailed technical logs and command breakdowns are located in [`minio-deployment.md`](./minio-deployment.md).
-
-### Reflection
-Personal analysis and answers to mission reflection questions are located in [`reflection.md`](./reflection.md).
-
-### Screenshots
-| Verification Task | Screenshot Evidence |
-| :--- | :--- |
-| **MinIO Container Running** | `![MinIO Deployed](./screenshots/minio-deployed.png)` |
-| **Bucket Creation & File Upload** | `![MinIO Bucket & Upload](./screenshots/minio-bucket-upload.png)` |
