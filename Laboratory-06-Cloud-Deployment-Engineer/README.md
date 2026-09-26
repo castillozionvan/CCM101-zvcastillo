@@ -15,6 +15,20 @@ In this laboratory activity, I transitioned from imperative manual container com
 
 ---
 
+## Skills Learned 
+
+1. Infrastructure as Code (IaC):
+   - Translating multi-container architecture requirements into declarative YAML blueprints.
+   - Managing application infrastructure programmatically rather than manually executing commands.
+
+2. Service Discovery & Networking:
+   - Establishing seamless inter-container communication across virtual bridge networks.
+   - Using Docker internal DNS resolution to connect services via service names (e.g., MYSQL_HOST=database).
+
+3. Container Lifecycle & Orchestration:
+   - Executing multi-container deployment, monitoring, and teardown using Docker Compose CLI commands (docker-compose up -d, ps, down).
+   - Port forwarding containerized application ports to host interfaces for browser access.
+
 ## Commands Executed
 
 ```bash
