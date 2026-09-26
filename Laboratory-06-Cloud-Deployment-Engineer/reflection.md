@@ -9,4 +9,4 @@ Environment variables like `MYSQL_PASSWORD` and `MYSQL_HOST` are used in the Com
 Deploying an enterprise-grade cloud storage system like Nextcloud alongside MariaDB in just a few minutes was an empowering experience. It highlighted the immense power of containerization and modern DevOps tools in automating complex infrastructure provisioning.
 
 Since Mission 1, my understanding of Cloud Computing has evolved from viewing the cloud as basic remote file storage to understanding it as programmable, automated infrastructure. Transitioning from manual single-container commands to orchestrating multi-tier architectures with Infrastructure as Code has demonstrated how real-world enterprise applications are designed, deployed, and managed efficiently.
-🛠️ Step-by-Step Instructions to Update These Files on GitHub
+
