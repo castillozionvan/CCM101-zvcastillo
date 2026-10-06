@@ -17,3 +17,4 @@ This repository serves as my official portfolio for **CCM101 – Cloud Computing
 * [Laboratory 04: Cloud-Native Engineer](./Laboratory-04-Cloud-Native-Engineer/README.md)
 * [Laboratory 05: Cloud Data Engineer](./Laboratory-05-Cloud-Data-Engineer/README.md)
 * [Laboratory 06: Cloud Deployment Engineer](./Laboratory-06-Cloud-Deployment-Engineer/README.md)
+* [Laboratory 07: Cloud Operations Engineer](./Laboratory-07-Cloud-Operations-Engineer/README.md)
