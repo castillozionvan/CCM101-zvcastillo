@@ -1,18 +1,28 @@
 # Laboratory 06: Cloud Deployment Engineer
 
 ## Mission Overview
-In this laboratory activity, I transitioned from imperative manual container commands to declarative **Infrastructure as Code (IaC)** using Docker Compose. Using a YAML configuration file, I defined and deployed a two-tier enterprise cloud storage application consisting of a **Nextcloud** web container and a **MariaDB** backend database, orchestrating the entire stack simultaneously with a single command.
+Congratulations! Your flawless work in deploying data storage solutions has earned you a spot on the
+Cloud Deployment Team at CloudNova Technologies.
+Up until now, you have been deploying single containers (like a standalone web server or a storage
+bucket). However, real-world enterprise applications are rarely just one container. They are "multi-tier" systems
+that require a frontend web application communicating seamlessly with a backend database. Deploying these
+one by one manually is prone to error.
+Enter Docker Compose. In this mission, you will transition from manual commands to Infrastructure
+as Code (IaC). Using a YAML configuration file, you will define a multi-container private cloud storage application
+(Nextcloud and MariaDB) and deploy the entire stack simultaneously with a single command!
+Remember: A junior engineer deploys servers by typing commands; a senior engineer deploys
+infrastructure by writing code.
 
 ---
 
 ## Objectives
-* Explain the concepts and benefits of a multi-tier application architecture.
-* Understand the purpose, syntax, and structure of a `docker-compose.yml` file.
-* Utilize command-line text editors (`nano`) to construct valid Infrastructure as Code blueprints.
-* Deploy and tear down multi-container stacks in detached mode (`docker-compose up -d` and `docker-compose down`).
-* Document deployment procedures, service discovery mechanisms, and IaC principles using Markdown.
-* Expand the professional GitHub Cloud Computing Portfolio.
-
+At the end of this laboratory activity, you should be able to:
+ Explain the concept of a multi-tier application architecture.
+ Understand the purpose and structure of a docker-compose.yml file.
+ Use a Linux command-line text editor (nano) to create configuration files.
+ Deploy a multi-container application (Nextcloud + Database) using Docker Compose.
+ Document deployment procedures and Infrastructure as Code (IaC) principles using Markdown.
+ Continue expanding your professional GitHub Cloud Computing Portfolio. 
 ---
 
 ## Skills Learned 
