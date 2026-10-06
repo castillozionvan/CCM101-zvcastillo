@@ -2,7 +2,7 @@
 
 ## Application Error Log Analysis
 
-## Application logs serve as an essential audit trail that captures exact user actions, HTTP status codes, and runtime errors occurring within a container. They enable Site Reliability Engineers to pinpoint failing endpoints and debug application failures without guessing.
+# Application logs serve as an essential audit trail that captures exact user actions, HTTP status codes, and runtime errors occurring within a container. They enable Site Reliability Engineers to pinpoint failing endpoints and debug application failures without guessing.
 **Extracted 404 Error Log:**
 
 ```log
