@@ -15,31 +15,31 @@ Up until now, you have been acting as a traditional systems administrator—typi
 
 ## Commands Executed
 
-# Create dummy data representing client files
+## Create dummy data representing client files
 mkdir app-data
 echo "This is critical client data." > app-data/data.txt
 
-# Create and edit the backup script
+## Create and edit the backup script
 nano backup.sh
 
-# Run script (throws permission denied)
+## Run script (throws permission denied)
 ./backup.sh
 
-# Grant execute permissions
+## Grant execute permissions
 chmod +x backup.sh
 
-# Run script successfully and verify output
+## Run script successfully and verify output
 ./backup.sh
 ls -l backups/
 
-# Check current active cron jobs
+## Check current active cron jobs
 crontab -l
 
-# Edit and install new cron schedule (runs every night at 2:00 AM)
+## Edit and install new cron schedule (runs every night at 2:00 AM)
 env EDITOR=nano crontab -e
-# Added line: 0 2 * * * /root/backup.sh
+## Added line: 0 2 * * * /root/backup.sh
 
-# Verify installed cron schedule
+## Verify installed cron schedule
 crontab -l
 
 ## Skills Learned
